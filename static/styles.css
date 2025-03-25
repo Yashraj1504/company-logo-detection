@@ -1,0 +1,38 @@
+/* Custom Styling */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container Card */
+.card {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    background: white;
+}
+
+/* Button Styling */
+.btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Flash Message Styling */
+.alert {
+    border-radius: 5px;
+}
+
+/* Image Styling */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
